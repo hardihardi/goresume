@@ -65,10 +65,10 @@ const styles = StyleSheet.create({
         fontSize: 10,
     },
 
-    line: {
-        borderBottom: '1px solid #eee',
-        margin: '5px 0px',
-    },
+    // line: { // Commented out or removed
+    //     borderBottom: '1px solid #eee',
+    //     margin: '5px 0px',
+    // },
     lists: {
         fontSize: 10.2,
         marginTop: 2,
