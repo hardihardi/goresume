@@ -7,11 +7,11 @@ const Header = () => {
             <Link href={'/'} className="mr-auto text-2xl flex items-center gap-2">
                 <Image
                     src="/logo.svg"
-                    alt="resumave"
+                    alt="goresume"
                     height={30}
                     width={30}
                 />
-                <span className="text-gradient">Resumave</span>
+                <span className="text-gradient">Goresume Pro</span>
             </Link>
         </header>
     );
