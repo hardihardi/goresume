@@ -1,3 +1,4 @@
+
 'use client';
 
 import { Page, Text, View, Document, Link } from '@react-pdf/renderer';
@@ -77,7 +78,7 @@ const Education = ({ data }) => (
                     <Text style={styles.date}>{location}</Text>
                 </View>
 
-                {/* {i !== data.length - 1 && <View style={styles.line} />} */} {/* Removed this line */}
+                {i !== data.length - 1 && <View style={styles.line} />}
             </View>
         ))}
     </Section>
@@ -115,7 +116,7 @@ const Projects = ({ data }) => (
                         ))}
                 </View>
 
-                {/* {i !== data.length - 1 && <View style={styles.line} />} */} {/* Removed this line */}
+                {i !== data.length - 1 && <View style={styles.line} />}
             </View>
         ))}
     </Section>
@@ -142,7 +143,7 @@ const Experience = ({ data }) => (
                         <ListItem key={i}>{responsibility}</ListItem>
                     ))}
                 </View>
-                {/* {i !== data.length - 1 && <View style={styles.line} />} */} {/* Removed this line */}
+                {i !== data.length - 1 && <View style={styles.line} />}
             </View>
         ))}
     </Section>
@@ -171,7 +172,7 @@ const Certificaes = ({ data }) => (
                     <Text>{issuer}</Text>
                 </View>
 
-                {/* {i !== data.length - 1 && <View style={styles.line} />} */} {/* Removed this line */}
+                {i !== data.length - 1 && <View style={styles.line} />}
             </View>
         ))}
     </Section>
