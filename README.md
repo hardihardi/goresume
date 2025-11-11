@@ -1,19 +1,19 @@
-<!-- ## Resumave -->
+<!-- ## Goresume -->
 
-<!-- Resumave is an ATS-friendly resume maker designed to simplify the process of creating professional resumes without the hassle of login or sign-up. With Resumave, users can easily input their details, generate a well-formatted resume, and export it in A4 PDF format. -->
+<!-- Goresume is an ATS-friendly resume maker designed to simplify the process of creating professional resumes without the hassle of login or sign-up. With Resumave, users can easily input their details, generate a well-formatted resume, and export it in A4 PDF format. -->
 
-<h1 align="center">Resumave</h1>
+<h1 align="center">Goresume</h1>
 <h3 align="center">An ATS-friendly resume maker</h3>
 
 <p align="center">
- <a href="https://resumavee.vercel.app">View Demo</a>
+ <a href="https://goresumepro.vercel.app">View Demo</a>
     ·
     <a href="https://github.com/devXprite/resumave/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Report Bug</a>
 </p>
 <br/>
 
 
-<p>Resumave is an ATS-friendly resume maker designed to simplify the process of creating professional resumes without the hassle of login or sign-up. With Resumave, users can easily input their details, generate a well-formatted resume, and export it in A4 PDF format. </p>
+<p>Goresume is an ATS-friendly resume maker designed to simplify the process of creating professional resumes without the hassle of login or sign-up. With Resumave, users can easily input their details, generate a well-formatted resume, and export it in A4 PDF format. </p>
 
 
 ## Features
@@ -66,7 +66,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 
 ## Usage
-To use Resumave, simply visit [resumavee.vercel.app](https://resumavee.vercel.app) and start filling out your details. Once complete, you can export your resume in PDF format.
+To use Resumave, simply visit [goresumepro.vercel.app](https://goresumepro.vercel.app) and start filling out your details. Once complete, you can export your resume in PDF format.
 
 ## License
 This project is licensed under the MIT License. see the LICENSE file for details.
